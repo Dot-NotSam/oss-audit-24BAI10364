@@ -41,7 +41,7 @@ It explores:
 │   ├── 3_disk_auditor.sh
 │   ├── 4_log_file_analyzer.sh
 │   └── 5_manifesto_generator.sh
-├── project-report.pdf
+├── OSS-Project-Report.pdf
 ├── README.md
 ```
 
