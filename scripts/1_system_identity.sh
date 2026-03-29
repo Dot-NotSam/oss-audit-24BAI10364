@@ -4,7 +4,7 @@
 # Author: Sameer Prajapati | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Sameer Prajapati"
 SOFTWARE_CHOICE="Git"
 
 # --- System Info ---
